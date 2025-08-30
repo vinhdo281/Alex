@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Hieu Vinh from Hanoi, Vietnam<br><br>- 🔭 I’m working as Python Developer<br>- 📚 I'm currently learning Mechatronic at HUST<br> ⚡ Big fan of Chess and Foreign Language lover</p>
+<p align="left">I'm Hieu Vinh from Hanoi, Vietnam<br><br>- 🔭 I’m working as Python Developer<br>- 📚 I'm currently learning Mechatronic at HUST<br> ⚡ Big fan of Chess and a Foreign Language lover</p>
 
 ###
 
