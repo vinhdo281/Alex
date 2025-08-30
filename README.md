@@ -26,7 +26,7 @@ A smart weather app that fetches real-time weather data using public APIs. Check
 
 ## 📫 Connect with Me
 
-- **Facebook:** [vinh.hieu.1656](https://www.facebook.com/vinh.hieu.1656)
+- **Facebook:** [Hieu Vinh](https://www.facebook.com/vinh.hieu.1656)
 
 ---
 
