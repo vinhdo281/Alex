@@ -16,10 +16,10 @@ Welcome to my GitHub profile! I'm passionate about building efficient solutions 
 
 ## 🌟 Featured Projects
 
-### 🔹 [Python](#)
-Python scripts and projects demonstrating my expertise in automation, data science, and API integrations.
+### 🔹 [Python](https://github.com/vinhdo281/Python)
+Python scripts and projects demonstrating my expertise in automation and API integrations.
 
-### 🔹 [Weather Checking Using API](#)
+### 🔹 [Weather Checking Using API]((https://github.com/vinhdo281/Checking-Weather-using-API))
 A smart weather app that fetches real-time weather data using public APIs. Check out how I use Python to connect, parse, and present weather info effortlessly.
 
 ---
